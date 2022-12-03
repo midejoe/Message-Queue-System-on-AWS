@@ -39,5 +39,5 @@ Step 4: Set the configuration settings for the Lambda functions and the code
 
 Step 4: Navigate to the application-backend and test the code
 
-I have made a detailed article on Medium.[]
+I have made a detailed article on [Medium](https://medium.com/@midejoseph24/build-an-order-message-queue-system-on-aws-using-sqs-and-lambda-436cd5f2f704https://medium.com/@midejoseph24/build-an-order-message-queue-system-on-aws-using-sqs-and-lambda-436cd5f2f704)
 
